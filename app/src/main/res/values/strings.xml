@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI Checker</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="check">BMI Check</string>
+    <string name="resultBMI">30.0000</string>
+    <string name="resultText">정상체중</string>
+
+</resources>
